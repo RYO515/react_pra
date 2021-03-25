@@ -1,8 +1,11 @@
 .box1 {
     height: 72px;
-    background-color: snow;
     margin-left: 15%;
     margin-right: 15%;
+    background-color: snow;
+    padding-right: 40%;
+    padding-left: 40%;
+    float: left;
 }
 
 .search_container {
@@ -23,6 +26,7 @@
     outline: none;
     width: 3em;
     height: 37px;
+    float: left;
 }
 .font {
     font-size: 20px;

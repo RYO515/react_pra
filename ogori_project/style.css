@@ -1,38 +1,5 @@
-.box1 {
-    height: 72px;
-    margin-left: 15%;
-    margin-right: 15%;
-    background-color: snow;
-    padding-right: 40%;
-    padding-left: 40%;
-    float: left;
-}
-
-.search_container {
-    box-sizing: border-box;
-}
-.search_container {
-    background-color: gray;
-    border: none;
-    height: 35px;
-}
-.search_container input[type="text"]:focus {
-    outline: 0;
-}
-.search_container {
-    cursor: pointer;
-    font-family: FontAwesome;
-    border: none;
-    outline: none;
-    width: 3em;
-    height: 37px;
-    float: left;
-}
-.font {
-    font-size: 20px;
-}
-
-.box2 {
-    height: 216px;
-    background-color: skyblue;
+.c-1 {
+    margin: 0px auto;
+    padding: 8px 0px 0px;
+    width: 700px;
 }
